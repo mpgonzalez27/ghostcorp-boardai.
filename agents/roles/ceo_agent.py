@@ -1,0 +1,1 @@
+print("CEO Agent initialized for assigned company")
