@@ -1,1 +1,0 @@
-print("Bootstrapping BoardAI backend API...")
